@@ -1,4 +1,4 @@
-# sudoku-shenanigans
+# sudoku shenanigans
 
 A collection of machine learning Sudoku solving algorithms. 
 
